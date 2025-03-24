@@ -1,3 +1,3 @@
-# xss
-some website vulnerable to reflected xss
-lawrl
+# xss.py
+
+a PoC to showcase XSS exploits
